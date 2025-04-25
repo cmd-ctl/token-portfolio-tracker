@@ -1,0 +1,11 @@
+{
+  "portfolio": {
+    "BTC": 0.5,
+    "ETH": 10,
+    "SOL": 50,
+    "TON": 50,
+    "ZK": 500,
+    "USDC": 1000
+  },
+  "currency": "USD"
+}
